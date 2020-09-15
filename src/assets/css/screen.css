@@ -2204,7 +2204,7 @@ button span {
   position: absolute;
   bottom: 0;
   left: -124px;
-  background-image: url("/static/images/flowers.png");
+  background-image: url("/images/flowers.png");
   width: 210px;
   height: 277px;
   z-index: -1;
@@ -2221,7 +2221,7 @@ button span {
   position: absolute;
   bottom: 0;
   right: -294px;
-  background-image: url("/static/images/girl.png");
+  background-image: url("/images/girl.png");
   width: 373px;
   height: 626px;
   z-index: -1;
@@ -2696,50 +2696,50 @@ button span {
 }
 /* line 63, ../../static/scss/abstracts/_mixins.scss */
 .icon--arrow-right {
-  -webkit-mask-image: url("/static/images/icons/arrow-right.svg");
+  -webkit-mask-image: url("/images/icons/arrow-right.svg");
   background-color: #b3b5db;
   width: 24px;
   height: 17px;
 }
 /* line 63, ../../static/scss/abstracts/_mixins.scss */
 .icon--graphic-design {
-  mask-image: url("/static/images/icons/graphic-design.png");
-  background-image: url("/static/images/icons/graphic-design.png");
+  mask-image: url("/images/icons/graphic-design.png");
+  background-image: url("/images/icons/graphic-design.png");
   width: 42px;
   height: 42px;
 }
 /* line 63, ../../static/scss/abstracts/_mixins.scss */
 .icon--ux {
-  mask-image: url("/static/images/icons/ux.png");
-  background-image: url("/static/images/icons/ux.png");
+  mask-image: url("/images/icons/ux.png");
+  background-image: url("/images/icons/ux.png");
   width: 42px;
   height: 42px;
 }
 /* line 63, ../../static/scss/abstracts/_mixins.scss */
 .icon--branding {
-  mask-image: url("/static/images/icons/branding.png");
-  background-image: url("/static/images/icons/branding.png");
+  mask-image: url("/images/icons/branding.png");
+  background-image: url("/images/icons/branding.png");
   width: 45px;
   height: 42px;
 }
 /* line 63, ../../static/scss/abstracts/_mixins.scss */
 .icon--creative {
-  mask-image: url("/static/images/icons/creative.png");
-  background-image: url("/static/images/icons/creative.png");
+  mask-image: url("/images/icons/creative.png");
+  background-image: url("/images/icons/creative.png");
   width: 53px;
   height: 53px;
 }
 /* line 63, ../../static/scss/abstracts/_mixins.scss */
 .icon--research {
-  mask-image: url("/static/images/icons/research.png");
-  background-image: url("/static/images/icons/research.png");
+  mask-image: url("/images/icons/research.png");
+  background-image: url("/images/icons/research.png");
   width: 47px;
   height: 47px;
 }
 /* line 63, ../../static/scss/abstracts/_mixins.scss */
 .icon--analysis {
-  mask-image: url("/static/images/icons/analysis.png");
-  background-image: url("/static/images/icons/analysis.png");
+  mask-image: url("/images/icons/analysis.png");
+  background-image: url("/images/icons/analysis.png");
   width: 48px;
   height: 48px;
 }
@@ -2784,7 +2784,7 @@ button span {
 }
 /* line 53, ../../static/scss/pages/_landing.scss */
 .landing .hero {
-  background: url("/static/images/hero.png") no-repeat center;
+  background: url("/images/hero.png") no-repeat center;
   background-size: cover;
   background-attachment: fixed;
 }
@@ -3089,7 +3089,7 @@ button span {
   content: '';
   position: absolute;
   background-size: contain;
-  background: #191c46 url("/static/images/icons/quote.png") no-repeat;
+  background: #191c46 url("/images/icons/quote.png") no-repeat;
   z-index: -1;
 }
 /* line 349, ../../static/scss/pages/_landing.scss */
